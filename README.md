@@ -1,0 +1,1 @@
+A project involving the design of a combat robot. The robot used Arduino programming and motor controls to perform offensive and defensive maneuvers, showcasing advanced control techniques and real-time adaptability.
